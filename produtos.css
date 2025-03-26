@@ -49,11 +49,11 @@ nav a:hover{
   border: 2px solid black;
   border-radius: 45px;
 }
-/*add 18/03*/
+
 .produtos li:hover{
   border-color: red;
 }
-/*add 18/03*/
+
 .produtos li:active{
   border-color: green;
 }
@@ -76,13 +76,13 @@ nav a:hover{
   font-weight: bold;
   margin-top: 10px;
 }
-
+/*add 18/03*/
 footer{
   text-align: center;
   background: url("bg.jpg");
   padding: 40px 0;
 }
-
+/*add 18/03*/
 .copyright{
   color: white;
   font-size: 22px;
